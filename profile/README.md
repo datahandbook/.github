@@ -4,11 +4,11 @@ Este es un espacio para compartir recursos de aprendizaje de Data Science en esp
 
 Hablamos sobre:
 
-✔️Python
-✔️SQL
-✔️Estadística computacional
-✔️Machine Learning
-✔️Buenas prácticas 
+✔️Python\
+✔️SQL\
+✔️Estadística computacional\
+✔️Machine Learning\
+✔️Buenas prácticas \
 ✔️Y más...
 
 
